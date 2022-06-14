@@ -154,7 +154,7 @@ body {
         width: 100%;
     }
 
-    group {
+    .group {
         border: 1px solid transparent;
     }
 }
